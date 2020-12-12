@@ -1,4 +1,4 @@
-### Hi there, I'm OOshhannnnkk 👋
+### Hi there, I'm Oshannk 👋
 | UOK CS Undergraduate |
 
 <!--
@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!--![004b173f6e3d6843df10114e087f30a8](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif) 
 ----->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hashan99&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Oshannk&show_icons=true&theme=dark)
 <br>
-![](https://visitor-badge.glitch.me/badge?page_id=hashan99)
+![](https://visitor-badge.glitch.me/badge?page_id=Oshannk)
 <br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashan99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
