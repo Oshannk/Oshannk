@@ -1,6 +1,7 @@
 ### Hi there, I'm Oshannk 👋
 | UOK CS Undergraduate |
 
+## &#x1f4c8; My GitHub Stats
 <!--
 **hashan99/hashan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
