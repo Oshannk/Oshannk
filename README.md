@@ -11,7 +11,7 @@ I am interested in Graphic Designing, IoT, Robotics, Gaming and Software Develop
 <a href="https://www.facebook.com/oshan.MaC/"><img height="30" src="https://1.bp.blogspot.com/-WSdqH3gMHDk/U-xndvvQYrI/AAAAAAAABwg/9OLHbIjiTF8/s1600/facebook%2Blogo%2Bpng%2Btransparent%2Bbackground.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/oshan-muththettupita/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 <a href="https://www.instagram.com/oshan_nk/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/niluminda5"><img height="30" src="https://user-images.githubusercontent.com/16066404/77041853-a2044100-69e0-11ea-8da6-d64822a2c72a.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/niluminda5"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/oshannk"><img src="https://res.cloudinary.com/db957qd0z/image/upload/v1608641948/logos/dev-lite_mv4etz.png" alt="Oshan Muththettupita's DEV Profile" height="30" width="30"></a><br><br><br>
 
 ## &#x1f4c8; My GitHub Stats
