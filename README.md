@@ -24,14 +24,16 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oshannk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Oshannk&show_icons=true&theme=dark)
-<br>
 ![](https://visitor-badge.glitch.me/badge?page_id=Oshannk)
 <br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashan99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<!--### Connect with me:
-
+<a href="https://www.facebook.com/oshan.MaC/"><img height="30" src="https://1.bp.blogspot.com/-WSdqH3gMHDk/U-xndvvQYrI/AAAAAAAABwg/9OLHbIjiTF8/s1600/facebook%2Blogo%2Bpng%2Btransparent%2Bbackground.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/oshan-muththettupita/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.instagram.com/oshan_nk/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/niluminda5"><img height="30" src="https://user-images.githubusercontent.com/16066404/77041853-a2044100-69e0-11ea-8da6-d64822a2c72a.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/oshannk"><img src="https://res.cloudinary.com/db957qd0z/image/upload/v1608641948/logos/dev-lite_mv4etz.png" alt="Oshan Muththettupita's DEV Profile" height="30" width="30"></a>
+<!--
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
