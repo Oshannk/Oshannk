@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 -->
 <!--![004b173f6e3d6843df10114e087f30a8](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif) 
 ----->
-
+<a href="https://github.com/Oshannk/Oshannk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oshannk&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Oshannk&show_icons=true&theme=dark)
 <br>
 ![](https://visitor-badge.glitch.me/badge?page_id=Oshannk)
