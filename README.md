@@ -1,5 +1,11 @@
 ### Hi there, I'm Oshannk 👋
-| UOK CS Undergraduate |
+![](https://komarev.com/ghpvc/?username=Oshannk)
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" height="235" />
+
+I am a Computer Science Undergraduate from Sri Lanka and currently studying in Faculty of Computing and Technology University of Peradeniya. 
+
+I am interested in Graphic Designing, IoT, Robotics, Gaming and Software Development. 
 
 ## &#x1f4c8; My GitHub Stats
 <!--
