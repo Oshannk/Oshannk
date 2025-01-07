@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" height="235" />
 
-I am a Computer Science Undergraduate from Sri Lanka and currently studying in Faculty of Computing and Technology, University of Kelaniya. 
+I am a Software Engineer with a degree in Computer Science from the Faculty of Computing and Technology, University of Kelaniya, Sri Lanka. I have a strong passion for software development, problem-solving, and technology innovation. Over the years, I have honed my skills in various programming languages, development frameworks, and tools to build efficient and scalable solutions.
 
 I am interested in Graphic Designing, IoT, Robotics, Gaming and Software Development. 
 
